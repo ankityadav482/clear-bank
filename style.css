@@ -1,14 +1,17 @@
 @font-face {
     font-family: "clear1";
-    src: url(./ClearSansDisplayRegular.ttf);
+   
+    src: url(./ClearSansDisplayRegular\ \(1\).woff2);
 }
 @font-face {
     font-family: "bold";
-    src: url(./ClearSansTextBold.ttf);
+   
+    src: url(./ClearSansTextBold\ \(1\).woff2);
 }
 @font-face {
     font-family: "text";
-    src: url(./ClearSansTextRegular.ttf);
+   
+    src: url(./ClearSansTextRegular\ \(1\).woff2);
 }
 *{
     margin: 0;
